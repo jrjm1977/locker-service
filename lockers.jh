@@ -1,0 +1,14 @@
+
+entity Region {
+	regionName String
+}
+
+entity Country {
+	countryName String
+}
+
+
+relationship ManyToOne {
+	Region{country} to Country
+}
+
