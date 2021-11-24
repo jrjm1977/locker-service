@@ -12,3 +12,4 @@ relationship ManyToOne {
 	Region{country} to Country
 }
 
+dto * with mapstruct
