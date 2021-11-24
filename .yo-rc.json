@@ -42,7 +42,9 @@
     "clientTheme": "none",
     "clientThemeVariant": "",
     "reactive": false,
-    "enableGradleEnterprise": false
+    "enableGradleEnterprise": false,
+    "entities": ["Region", "Country"],
+    "lastLiquibaseTimestamp": 1637773517000
   },
   "git-provider": "GitHub",
   "git-company": "jrjm1977",
